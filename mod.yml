@@ -1,0 +1,7 @@
+title: Faster Title Screen - Roxas Mod
+description: Roxas Mod title screen, now with no logos
+assets:
+- name: menu/fm/title.2ld
+  method: copy
+  source:
+  - name: title.2ld
